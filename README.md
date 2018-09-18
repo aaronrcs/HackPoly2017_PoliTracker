@@ -10,3 +10,6 @@ Because of the recent election, people are more on their toes on what is going o
 
 How we built it-->
 We built the app using Android Studio and the sunlightlabs API.
+
+
+DevPost: https://devpost.com/software/politrack
